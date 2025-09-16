@@ -205,6 +205,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-.Ankas_and_Mustafas_Selected_Images/
-.Fully_Pre_processed_Data/
